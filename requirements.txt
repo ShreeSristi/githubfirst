@@ -4,3 +4,6 @@ Chat Option
 colors
 Gif
 Stickers
+
+Dark mode
+Video calls
